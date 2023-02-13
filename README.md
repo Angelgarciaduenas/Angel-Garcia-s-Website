@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <img src="C:\Users\18058\Pictures\Screenshots"/>
     <meta charset="utf-8" />
     <link rel="stylesheet" type="text/css" href="resume.html" />
     <link rel="stylesheet" type="text/css" href="resource.html" />
