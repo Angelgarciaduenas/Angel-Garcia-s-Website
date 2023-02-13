@@ -10,22 +10,31 @@
     <section id="main">
       <header id="title">
         <h1>Angel Garcia</h1>
-        <span class="subtitle">Plaintiff, defendant &amp; witness</span>
+        <span class="subtitle">Business Major at Channel Islands Univeristy. I am currently a senior and pursing a job in the agriculture industry. I currently work at a golf course out in Ventura named Olivas Links.</span>
       </header>
       <section class="main-block">
         <h2>
-          <i class="fa fa-suitcase"></i> Experiences
+          On the next pages we will have other sites such as Resume, Surveys and Resouce pages.<i class="fa fa-suitcase"></i> 
         </h2>
         <section class="blocks">
           <div class="date">
-            <span>2015</span><span>present</span>
+            <span>2023</span><span>-present</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
-              <h3>Some Position</h3>
-              <span class="place">Some Workplace</span>
-              <span class="location">(remote)</span>
+              <h3>Mis-310 Class</h3>
+              <span class="place">This class takes place in person.</span>
+              <span class="location">(CSUCI)</span>
             </header>
             <div>
+            <section class="main-block">
+            <h3>
+            Some of my hobbies:
+            
+            -basketball
+            -Golfing
+            -Going to the Gym
+        
+        
