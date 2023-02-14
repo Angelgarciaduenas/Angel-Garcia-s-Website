@@ -14,7 +14,7 @@
   </head>
   <body>
     <h1>Angel Garcia</h1>
-    <img src="" alt="John Doe's photo">
+    <img src="https://media.licdn.com/dms/image/D5635AQFOxpvKL69rXg/profile-framedphoto-shrink_400_400/0/1674621545226?e=1676955600&v=beta&t=-7hO8Q-A0o5L8iEspPqNEC2W9mIxUOR5vXoub63JsY0" alt="John Doe's photo">
     <p class="contact">Email: angelgarcia805@yahoo.com</p>
     <p class="contact">Phone: 123-456-7890</p>
     <h2>Objective</h2>
