@@ -15,7 +15,7 @@
   <body>
     <h1>John Doe</h1>
     <img src="path/to/your/photo.jpg" alt="John Doe's photo">
-    <p class="contact">Email: johndoe@email.com</p>
+    <p class="contact">Email: angelgarcia805@yahoo.com</p>
     <p class="contact">Phone: 123-456-7890</p>
     <h2>Objective</h2>
     <p>To obtain a position as a Software Developer.</p>
@@ -35,6 +35,12 @@
     <p>Developed and maintained software applications.</p>
     <h3>Web Developer, XYZ Company</h3>
     <p>Developed and maintained websites using HTML, CSS, and JavaScript.</p>
+    <h2>Links</h2>
+    <ul>
+      <li><a href="https://www.surveymonkey.com/">Take the survey</a></li>
+      <li><a href="https://www.example.com/resources">Visit the resource page</a></li>
+      <li><a href="path/to/your/resume.pdf">View my resume</a></li>
+    </ul>
   </body>
 </html>
-        
+
