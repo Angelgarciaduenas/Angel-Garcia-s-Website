@@ -43,22 +43,16 @@
       <li><a href="https://Nike.com">Nike</a></li>
       <p>Nike is a athletic brand that sponsers top athletes and sports teams. Nike has great clothes overall and shoes are excellent for running and everyday shoes. </p>
       <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
-<<<<<<< HEAD
       <p>Developed relationships with Customers to increase Business while making daily check-ins to insure sastified relations. </p>
       <li><a href="https://www.example.com/link3">VCSTAR</a></li>
       <p>Developed relationships with Customers to increase Business while making daily check-ins to insure sastified relations. </p>
-=======
       <p>LinkedIn is a website that is very similar to popular apps such as Facebook or Instagram. Only difference is that LinkedIn speacilizes for a professional stand rather than everyday users just posting "non-sense" </p>
       <li><a href="https://www.bing.com/ck/a?!&&p=1bc87a930f77347aJmltdHM9MTY3NjI0NjQwMCZpZ3VpZD0zM2VmMmE5Zi04NThiLTY0NjQtMjQ3MS0zOGY1ODQwZjY1MWUmaW5zaWQ9NTE3MA&ptn=3&hsh=3&fclid=33ef2a9f-858b-6464-2471-38f5840f651e&psq=vcstar&u=a1aHR0cHM6Ly93d3cudmNzdGFyLmNvbS8&ntb=1">Vcstar</a></li>
       <p>VCstar is a everyday use for me as it keeps you updated on whats going on around your area. Unfortunately, this website only covers the 805 area. If living somewhere else, this may not catch you eye.  </p>
->>>>>>> 89a6746f4f1dcff0c39a3cca7a8bcbdaa7ae3bdd
     </ul>
   </li>
-<<<<<<< HEAD
   <li><a href="C:\Users\18058\Downloads\Brian+Duenas+Software+Resume+(1).pdf">View my resume</a></li>
-=======
   <li><a href="https://docs.google.com/document/d/1t8-NxBd5FkYji5vuB4WzNv9QrkJUel9yEWsJFphyWew/edit">View my resume</a></li>
->>>>>>> 89a6746f4f1dcff0c39a3cca7a8bcbdaa7ae3bdd
 </ul>
   </body>
 </html>
