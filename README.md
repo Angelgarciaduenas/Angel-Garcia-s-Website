@@ -41,11 +41,20 @@
     <h3>Golf Cart Attendent - Olivas Links</h3>
     <p>Developed and maintained websites using HTML, CSS, and JavaScript.</p>
     <h2>Links</h2>
+   <ul>
+  <li><a href="https://www.surveymonkey.com/">Take the survey</a></li>
+  <li><a href="https://www.example.com/resources" target="_blank">Visit the resource page</a>
     <ul>
-      <li><a href="https://www.surveymonkey.com/">Take the survey</a></li>
-      <li><a href="https://www.example.com/resources">Visit the resource page</a></li>
-      <li><a href="path/to/your/resume.pdf">View my resume</a></li>
+      <li><a href="https://Nike.com">Nike</a></li>
+      <p>Developed relationships with Customers to increase Business while making daily check-ins to insure sastified relations. </p>
+      <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+      <p>Developed relationships with Customers to increase Business while making daily check-ins to insure sastified relations. </p>
+      <li><a href="https://www.example.com/link3">Link 3</a></li>
+      <p>Developed relationships with Customers to increase Business while making daily check-ins to insure sastified relations. </p>
     </ul>
+  </li>
+  <li><a href="path/to/your/resume.pdf">View my resume</a></li>
+</ul>
   </body>
 </html>
 <<<<<<< HEAD
