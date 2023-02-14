@@ -51,7 +51,6 @@
       <p>VCstar is a everyday use for me as it keeps you updated on whats going on around your area. Unfortunately, this website only covers the 805 area. If living somewhere else, this may not catch you eye.  </p>
     </ul>
   </li>
-  <li><a href="C:\Users\18058\Downloads\Brian+Duenas+Software+Resume+(1).pdf">View my resume</a></li>
   <li><a href="https://docs.google.com/document/d/1t8-NxBd5FkYji5vuB4WzNv9QrkJUel9yEWsJFphyWew/edit">View my resume</a></li>
 </ul>
   </body>
