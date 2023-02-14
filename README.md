@@ -13,27 +13,32 @@
     </style>
   </head>
   <body>
-    <h1>John Doe</h1>
+    <h1>Angel Garcia</h1>
     <img src="path/to/your/photo.jpg" alt="John Doe's photo">
+<<<<<<< HEAD
+    <p class="contact">Email: Angelgarcia805@yahoo.com</p>
+    <p class="contact">Phone: (805)123-4567</p>
+=======
     <p class="contact">Email: angelgarcia805@yahoo.com</p>
     <p class="contact">Phone: 123-456-7890</p>
+>>>>>>> d2c385df3c2b209ccf4e57cb3fc53a4cdf4de7ce
     <h2>Objective</h2>
-    <p>To obtain a position as a Software Developer.</p>
+    <p>To understand how HTML programming works while creating a website for the long run.</p>
     <h2>Education</h2>
     <ul>
-      <li>Bachelor of Science in Computer Science, XYZ University</li>
-      <li>Master of Science in Computer Science, ABC University</li>
+      <li>Oxnard College- Arts Associates in Business Amdinistartion.</li>
+      <li>Channel Islands University - Pursing Bachelors in Business Science.</li>
     </ul>
     <h2>Skills</h2>
     <ul>
-      <li>Programming languages: Java, Python, JavaScript</li>
-      <li>Web technologies: HTML, CSS, jQuery</li>
-      <li>Operating systems: Windows, Linux</li>
+      <li>Bilingual (English and Spanish)</li>
+      <li>Multitasking / exellent Teamwork </li>
+      <li>Operating systems: Excel, Word, and Powerpoint</li>
     </ul>
     <h2>Experience</h2>
-    <h3>Software Developer, Acme Corporation</h3>
-    <p>Developed and maintained software applications.</p>
-    <h3>Web Developer, XYZ Company</h3>
+    <h3>Sales Man - Garcia's Produce</h3>
+    <p>Developed relationships with Customers to increase Business while making daily check-ins to insure sastified relations. </p>
+    <h3>Golf Cart Attendent - Olivas Links</h3>
     <p>Developed and maintained websites using HTML, CSS, and JavaScript.</p>
     <h2>Links</h2>
     <ul>
@@ -43,4 +48,31 @@
     </ul>
   </body>
 </html>
+<<<<<<< HEAD
 
+     
+       
+
+<body><a name="top"><a><h1>Angel Garcia Contacts</h1>
+<ul>
+
+</ul>
+<hr width=6>
+<a name="chen"></a>
+Email:<br>
+Angelgarcia805@yahoo.com<br>
+
+
+ <a href="#top"></a>
+<p>
+<a name="johnson"></a>
+Phone:<br>
+(805)123-4567<br>
+<a href="#top"></a>
+<p>
+
+
+=======
+
+
+>>>>>>> d2c385df3c2b209ccf4e57cb3fc53a4cdf4de7ce
